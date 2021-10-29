@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/andreaslindenthal0522/Java/_apis/build/status/Candreas.pipelines-java?branchName=master)](https://dev.azure.com/andreaslindenthal0522/Java/_build/latest?definitionId=15&branchName=master)
+
+
 
 # Contributing
 
